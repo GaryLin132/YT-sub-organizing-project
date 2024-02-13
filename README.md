@@ -55,6 +55,7 @@ Count videos viewed of every channel per month, and come up with two indicators
 
 - Get the subscription list of your Youtube channel to compare with your watch history.
 - Granting the permission to unsubscribe to channels.
+  - Once the access_token.json file is created, you don't have to grant access through the browser.
 
 ### **GUI** (gui.py)
 
